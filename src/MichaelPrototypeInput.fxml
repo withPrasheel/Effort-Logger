@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="sceneMichael" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.MichaelPrototypeController">
+   <children>
+      <Text layoutX="203.0" layoutY="50.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Michael's input-correction prototype" />
+      <Text layoutX="271.0" layoutY="122.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Test inputs" />
+      <Button fx:id="closeButton" layoutX="278.0" layoutY="349.0" mnemonicParsing="false" onAction="#closeMichael" text="Close" />
+      <TextField fx:id="testInput" layoutX="226.0" layoutY="158.0" onAction="#inputChecker" />
+      <Label fx:id="updateLabel" layoutX="283.0" layoutY="192.0" text="Status" />
+   </children>
+</AnchorPane>

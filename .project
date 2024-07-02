@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>CSE_360_EffortLoggerMain</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.xtext.ui.shared.xtextBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<!-- <linkedResources>
+		<link>
+			<name>src/CaydenPrototype.fxml</name>
+			<type>1</type>
+			<location>C:/Users/micha/Desktop/Hysteria Dev/Github folder/SonicHysteria/CSE-360/src/CaydenPrototype.fxml</location>
+		</link>
+		<link>
+			<name>src/application/Authentication.java</name>
+			<type>1</type>
+			<location>C:/Users/micha/Desktop/Hysteria Dev/Github folder/SonicHysteria/CSE-360/src/application/Authentication.java</location>
+		</link>
+		<link>
+			<name>src/application/LoginController.java</name>
+			<type>1</type>
+			<location>C:/Users/micha/Desktop/Hysteria Dev/Github folder/SonicHysteria/CSE-360/src/application/LoginController.java</location>
+		</link>
+		<link>
+			<name>src/application/LoginUI.java</name>
+			<type>1</type>
+			<location>C:/Users/micha/Desktop/Hysteria Dev/Github folder/SonicHysteria/CSE-360/src/application/LoginUI.java</location>
+		</link>
+		<link>
+			<name>src/application/NamrathaPrototype.fxml</name>
+			<type>1</type>
+			<location>C:/Users/micha/Desktop/Hysteria Dev/Github folder/SonicHysteria/CSE-360/src/application/NamrathaPrototype.fxml</location>
+		</link>
+		<link>
+			<name>src/application/RegistrationUI.java</name>
+			<type>1</type>
+			<location>C:/Users/micha/Desktop/Hysteria Dev/Github folder/SonicHysteria/CSE-360/src/application/RegistrationUI.java</location>
+		</link>
+	</linkedResources> -->
+</projectDescription>
